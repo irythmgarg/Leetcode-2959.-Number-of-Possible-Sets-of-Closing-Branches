@@ -29,6 +29,24 @@ Optimizations:
 - Avoid unnecessary recomputation of indices by mapping node labels to matrix indices.
 
 ---
+✨ Features
+
+Handles large graphs efficiently (limited by subset enumeration).
+
+Clean and modular code with comments.
+
+Accurate distance comparisons with integer overflow protection.
+
+---
+
+📎 Related Topics
+Graph Algorithms
+
+Dynamic Programming
+
+Bitmasking
+
+All-Pairs Shortest Path
 
 ---
 
